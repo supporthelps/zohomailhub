@@ -14,7 +14,7 @@ DEFAULT_LINKS = {
     "Home": "index.html",
     "TrollFree No.": "index.html#guides",
     "Login": "#",
-    "Support": "https://arsresolution.com/"
+    "Support": "#"
 }
 
 NAVBAR_CLASS = "zoho-navbar"
